@@ -3,9 +3,9 @@
 This repository contains solutions to the skill assessment tasks provided by SKAI LABS.
 
 ## Table of Contents
-- [Task 1: Display Polygon on a Map](#taks1)
-- [Taks 2: Detecting Unauthorized Sales](#task2)
-- [Task 3: Optimal Job Interview Scheduling](#task3)
+- [Task 1: Display Polygon on a Map](#task-1:-display-polygon-on-a-map)
+- [Taks 2: Detecting Unauthorized Sales](#task-2:-detecting-unauthorized-sales)
+- [Task 3: Optimal Job Interview Scheduling](#taks-3:-optimal-job-interview-scheduling)
 
 ## Task 1: Display Polygon on a Map
 
